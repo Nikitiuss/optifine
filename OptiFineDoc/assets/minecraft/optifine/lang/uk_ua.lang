@@ -131,7 +131,7 @@ options.framerateLimit.tooltip.5=Гранична частота зміни ка
 options.framerateLimit.tooltip.6=значення ліміту не досягнуто.
 of.options.framerateLimit.vsync=VSync
 
-of.options.AO_LEVEL=Рівень м'якого освітлення
+of.options.AO_LEVEL=Рівень м'якого освітл.
 of.options.AO_LEVEL.tooltip.1=Рівень м'якого освітлення
 of.options.AO_LEVEL.tooltip.2=  Вимк - без тіней
 of.options.AO_LEVEL.tooltip.3=  50%% - легкі тіні
@@ -326,7 +326,7 @@ of.options.shaders.DOWNLOAD.tooltip.5=з'являться у списку вст
 of.options.shaders.SHADER_PACK=Шейдерпак
 
 of.options.shaders.shadersFolder=Папка з шейдерами
-of.options.shaders.shaderOptions=Налаштування шейдерів...
+of.options.shaders.shaderOptions=Налашт. шейдерів...
 
 of.options.shaderOptionsTitle=Налаштування шейдерів
 
@@ -604,7 +604,7 @@ of.options.DYNAMIC_FOV.tooltip.3=  Вимк - динамічний FOV вимк�
 of.options.DYNAMIC_FOV.tooltip.4=Змінює поле зору (FOV), коли літаємо, біжимо 
 of.options.DYNAMIC_FOV.tooltip.5=чи натягуємо лук.
 
-of.options.DYNAMIC_LIGHTS=Динамічне освітлення
+of.options.DYNAMIC_LIGHTS=Динамічне освітл.
 of.options.DYNAMIC_LIGHTS.tooltip.1=Динамічне освітлення
 of.options.DYNAMIC_LIGHTS.tooltip.2=  Вимк - без динамічного освітлення (базово)
 of.options.DYNAMIC_LIGHTS.tooltip.3=  Швидка - швидке динамічне освітлення (оновлення кожні 500мс)
@@ -789,7 +789,7 @@ of.options.AUTOSAVE_TICKS.tooltip.2=Стандартний інтервал зб
 of.options.AUTOSAVE_TICKS.tooltip.3=Автозбереження може спричиняти завмирання гри.
 of.options.AUTOSAVE_TICKS.tooltip.4=Гра також зберігатиметься, коли відкрито меню.
 
-of.options.SCREENSHOT_SIZE=Розмір знімку екрану
+of.options.SCREENSHOT_SIZE=Розмір скріншоту
 of.options.SCREENSHOT_SIZE.tooltip.1=Розмір скріншоту
 of.options.SCREENSHOT_SIZE.tooltip.2=  Стандартний - стандартний розмір скріншоту
 of.options.SCREENSHOT_SIZE.tooltip.3=  2x-4x - власний розмір скріншоту
@@ -797,7 +797,7 @@ of.options.SCREENSHOT_SIZE.tooltip.4=Знімання більшого скрі�
 of.options.SCREENSHOT_SIZE.tooltip.5=Не сумісне зі згладжуванням
 of.options.SCREENSHOT_SIZE.tooltip.6=Потребує підтримку фреймбуфера GPU.
 
-of.options.SHOW_GL_ERRORS=Показувати помилки OpenGL
+of.options.SHOW_GL_ERRORS=Показ. помилки OpenGL
 of.options.SHOW_GL_ERRORS.tooltip.1=Показувати помилки OpenGL
 of.options.SHOW_GL_ERRORS.tooltip.2=Коли увімкнено, помилки OpenGL будуть надсилатись у чат.
 of.options.SHOW_GL_ERRORS.tooltip.3=Вимикайте це лише, якщо ви ТОЧНО впевнені що цю
